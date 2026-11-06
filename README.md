@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TKHONDE">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I%20am%20him%20%3A-)" alt="Code wit T!n0 :-)" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I%20am%20him%20%3A-)" alt="Code with T!n0 :-)" />
   </a>
 </p>
 
